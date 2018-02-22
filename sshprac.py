@@ -24,3 +24,5 @@ if 'succeeded' in sshthing():
     sshthing2()
 else:
     print("Metadata Secure!")
+
+# Secures ec2 Metadata
